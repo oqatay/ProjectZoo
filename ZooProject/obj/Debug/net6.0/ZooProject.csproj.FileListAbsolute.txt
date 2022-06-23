@@ -1,0 +1,15 @@
+H:\C#\Projects\ZooProject\bin\Debug\net6.0\ZooProject.exe
+H:\C#\Projects\ZooProject\bin\Debug\net6.0\ZooProject.deps.json
+H:\C#\Projects\ZooProject\bin\Debug\net6.0\ZooProject.runtimeconfig.json
+H:\C#\Projects\ZooProject\bin\Debug\net6.0\ZooProject.dll
+H:\C#\Projects\ZooProject\bin\Debug\net6.0\ZooProject.pdb
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.csproj.AssemblyReference.cache
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.GeneratedMSBuildEditorConfig.editorconfig
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.AssemblyInfoInputs.cache
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.AssemblyInfo.cs
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.csproj.CoreCompileInputs.cache
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.dll
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\refint\ZooProject.dll
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.pdb
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ZooProject.genruntimeconfig.cache
+H:\C#\Projects\ZooProject\obj\Debug\net6.0\ref\ZooProject.dll
